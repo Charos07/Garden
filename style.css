@@ -1,0 +1,330 @@
+body{
+    background-color: rgba(241, 254, 244, 1);
+}
+.wrapper
+{
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    margin-top: 2457px;
+    margin-bottom:2632px ;
+}
+.bin
+{
+margin-top: 100px;
+margin-left: 407px;
+margin-bottom: 104px;
+margin-right: 407px;
+
+}
+.box
+{
+    width: 346px;
+    height: 272px;
+    margin-top: 2557px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #FFF;
+}
+.best
+{
+   
+   margin-top: 100px;
+   margin-left: 792px;
+    color: #030C0C;
+text-align: center;
+font-size: 40px;
+font-family: Lora;
+font-weight: 500;
+line-height: 56px;
+text-transform: capitalize;
+}
+.lorem{
+    display: flex;
+   margin-left: 628px;
+    margin-top: 18px;
+width: 663px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #666;
+text-align: center;
+font-size: 16px;
+font-family: Inter;
+line-height: 24px;
+letter-spacing: 0.16px;
+text-transform: capitalize;
+}
+.box1
+{
+    margin-top: 641px;
+    margin-left: 407px;
+    width: 346px;
+    height: 272px;
+    flex-shrink: 0;
+}
+.empty
+{
+    width: 346px;
+height: 272px;
+flex-shrink: 0;
+border-radius: 10px;
+position: relative;
+margin-top: -300px;
+margin-left: -50px;
+background: #FFF;
+}
+.star{
+    position: absolute;
+    top: 10px;
+    left: 260px;
+}
+.delig
+{
+    position: absolute;
+    top: 90px;
+    left: 58px;
+}
+.lorem1
+{
+    display: flex;
+    position: absolute;
+    top: 132px;
+    left: 36px;
+width: 271px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;color: #808080;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+line-height: 24px;
+letter-spacing: 0.16px;
+text-transform: capitalize;
+}
+.flower
+{
+    width: 240px;
+height: 422px;
+flex-shrink: 0;
+position: relative;
+margin-top: -350px;
+margin-left:38px;
+}
+.num
+{
+    color: #05A42C;
+font-size: 26px;
+font-family: Lora;
+font-weight: 500;
+line-height: 22px;
+text-transform: capitalize;
+position:relative;
+margin-top: 140px;
+margin-left: 29px;
+}
+.buy
+{
+    color: #313131;
+text-align: center;
+font-size: 18px;
+font-family: Lora;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0.18px;
+text-transform: capitalize;
+position: absolute;
+top: 216px;
+left: 219px;
+}
+.arrow
+{
+    position: absolute;
+    top: 220px;
+    left: 310px;
+}
+.hover:hover{
+    background-color: #046D1E;
+    color:wheat;
+}
+.empty1{
+    width: 346px;
+    height: 272px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    position: relative;
+    margin-top: -270px;
+    margin-left: 787px;
+    background: #FFF;
+}
+.delig1
+{
+    color:black;
+text-align: center;
+font-size: 22px;
+font-family: Lora;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.88px;
+text-transform: capitalize;
+position: absolute;
+    top: 90px;
+    left: 58px;
+}
+.lorem2
+{
+    display: flex;
+    position: absolute;
+    top: 132px;
+    left: 36px;
+width: 271px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;color: #808080;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+line-height: 24px;
+letter-spacing: 0.16px;
+text-transform: capitalize;
+}
+.star1{
+    position: absolute;
+    top: 10px;
+    left: 260px;
+}
+.num1
+{
+    color: #05A42C;
+    font-size: 26px;
+    font-family: Lora;
+    font-weight: 500;
+    line-height: 22px;
+    text-transform: capitalize;
+    position:relative;
+    margin-top:140px;
+    margin-left: 34px;
+}
+.buy1
+{
+    color:black;
+text-align: center;
+font-size: 18px;
+font-family: Lora;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0.18px;
+text-transform: capitalize;
+position: absolute;
+top: 216px;
+left: 219px;
+}
+.arrow1
+{
+    position: absolute;
+    top: 220px;
+    left: 310px;
+}
+.flower1
+{
+    
+    width: 240px;
+    height: 422px;
+    flex-shrink: 0;
+    position: relative;
+    margin-top: -350px;
+    margin-left:45px;
+}
+.hover1:hover{
+    background-color: #046D1E;
+    color: white;  
+}
+.empty2{
+    width: 346px;
+    height: 272px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    position: relative;
+    margin-top: -270px;
+    margin-left: 1210px;
+    background: #FFF;
+}
+.delig2{
+    color:black;
+text-align: center;
+font-size: 22px;
+font-family: Lora;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.88px;
+text-transform: capitalize;
+position: absolute;
+top: 90px;
+left: 58px;
+}
+.lorem3
+{
+    display: flex;
+    position: absolute;
+    top: 132px;
+    left: 36px;
+width: 271px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;color: #808080;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+line-height: 24px;
+letter-spacing: 0.16px;
+text-transform: capitalize;
+}
+.star2{
+    position: absolute;
+    top: 10px;
+    left: 260px;
+}
+.num2
+{
+    color: #05A42C;
+    font-size: 26px;
+    font-family: Lora;
+    font-weight: 500;
+    line-height: 22px;
+    text-transform: capitalize;
+    position:relative;
+    margin-top:140px;
+    margin-left: 34px;
+}
+.buy2
+{
+    color:black;
+text-align: center;
+font-size: 18px;
+font-family: Lora;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0.18px;
+text-transform: capitalize;
+position: absolute;
+top: 216px;
+left: 219px;
+}
+.arrow2
+{
+    position: absolute;
+    top: 220px;
+    left: 310px;
+}
+.flower2{ 
+    width: 240px;
+    height: 422px;
+    flex-shrink: 0;
+    position: relative;
+    margin-top: -350px;
+    margin-left:45px;
+}
+.hover2:hover{
+    background-color: #046D1E;
+    color: white;  
+}
